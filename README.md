@@ -1,5 +1,5 @@
 # Portfólio-X-Devs
-Projeto dos X-mens no estilo desenvolvedores realizado no curso do DevQuest 💻🚀
+Projeto dos X-mens no estilo programadores realizado no curso do DevQuest 💻🚀
 
 [<img src="./gif-portfolio-simples.gif" alt="Gif do projeto x-devs">](https://augusto-brunelli.github.io/projeto-x-devs/)
 
